@@ -1,0 +1,9 @@
+node_modules
+dist
+*.local
+.DS_Store
+# 実患者データをコミットしない
+data/
+*.real.xlsx
+*.real.csv
+*.tsbuildinfo
